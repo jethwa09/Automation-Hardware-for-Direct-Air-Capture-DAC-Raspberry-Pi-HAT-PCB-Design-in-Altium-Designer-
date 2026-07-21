@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: RPI 3.GBR   1/30/2025  10:59:30 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Mechanical 1                            
+.gbr                M2: Outline                             
+.gbr                Top 3D Body                             
+.gbr                Top Courtyard                           
+.gbr                Top Assembly                            
+.gbr                Top Designator                          
+.gbr                Bottom Designator                       
+.gbr                Top Component Outline                   
+.gbr                Bottom Component Outline                
+.gbr                Mechanical 13                           
+.gbr                Mechanical 15                           
+.gbr                Top Component Center                    
+.gbr                Bottom Assembly                         
+.gbr                Bottom Courtyard                        
+.gbr                Bottom 3D Body                          
+.gbr                Bottom Component Center                 
+.gbr                Keep-Out Layer                          
+.gbr                Top Pad Master                          
+.gbr                Bottom Pad Master                       
+.gbr                Multi-Layer                             
+.gbr                Dielectric 1                            
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------

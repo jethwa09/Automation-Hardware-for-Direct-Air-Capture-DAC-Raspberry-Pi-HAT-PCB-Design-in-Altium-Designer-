@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: RPI 3.PcbDoc   1/30/2025  11:00:44 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : RPI 3.TXT
+EIA File   : RPI 3.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      30mil (0.749mm)                                           Round             6         PTH        0.91inch (23.00mm)
+T2      32mil (0.813mm)                                           Round             3         PTH        0.19inch (4.83mm)
+T3      35mil (0.899mm)                                           Round             46        PTH        6.81inch (172.92mm)
+T4      39mil (1.001mm)                                           Round             9         PTH        2.59inch (65.89mm)
+T5      42mil (1.059mm)                                           Round             2         PTH        0.41inch (10.36mm)
+T6      45mil (1.151mm)                                           Round             3         PTH        0.20inch (5.00mm)
+T7      108mil (2.751mm)                                          Round             4         PTH        6.50inch (165.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              73
+
+Total Processing Time (hh:mm:ss) : 00:00:00
