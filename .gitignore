@@ -1,0 +1,27 @@
+# Altium generated and temporary files
+History/
+Project Logs for */
+__Previews/
+*.PcbDocPreview
+*.SchDocPreview
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.PrjPcbZip
+*.PrjPcbExport
+*.DsnWrk
+*.DsnWrk.user
+*.PrjPcb.user
+*.autosave
+*.bak
+~$*
+
+# Output-job temporary directories
+Project Outputs for */
+Generated/
+Temp/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
