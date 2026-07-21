@@ -223,21 +223,6 @@ raspberry-pi  pcb-design  altium-designer  direct-air-capture
 embedded-systems  hardware-automation  relay-control  gerber
 ```
 
-## Roadmap
-
-- [ ] Add original Altium schematic and PCB source
-- [ ] Publish schematic PDF and annotated connector pinout
-- [ ] Add BOM with verified part numbers and ratings
-- [ ] Add assembled-board photographs and a short demonstration video
-- [ ] Add Raspberry Pi Python control software
-- [ ] Record relay timing, current, thermal, and endurance results
-- [ ] Add a complete fabrication-ready release archive
-- [ ] Select and add an appropriate open-hardware license
-
-## License
-
-No license is declared in this package. Add a suitable software and/or open-hardware license only after confirming ownership, contributor approval, and institutional requirements.
-
 ---
 
 <div align="center">
